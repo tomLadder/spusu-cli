@@ -6,6 +6,14 @@ This guide helps AI assistants use spusu-cli effectively.
 
 spusu-cli is a command-line tool for interacting with spusu.at, an Austrian mobile provider. It allows users to manage their account, view invoices, and download bills.
 
+## Installation
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/tomLadder/spusu-cli/main/install.sh | sh
+```
+
+Pre-built binaries are also available on the [Releases page](https://github.com/tomLadder/spusu-cli/releases).
+
 ## Authentication
 
 spusu uses SMS TAN-based authentication:
