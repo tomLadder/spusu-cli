@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/spusu-cli/',
 
   head: [
-    ['meta', { name: 'theme-color', content: '#00a0e1' }],
+    ['meta', { name: 'theme-color', content: '#005F59' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:site_name', content: 'spusu-cli' }],
   ],

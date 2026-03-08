@@ -1,0 +1,17 @@
+:root {
+  --vp-c-brand-1: #005F59;
+  --vp-c-brand-2: #007A72;
+  --vp-c-brand-3: #00958B;
+  --vp-c-brand-soft: rgba(0, 95, 89, 0.14);
+
+  --vp-button-brand-bg: #005F59;
+  --vp-button-brand-hover-bg: #007A72;
+
+  --vp-home-hero-name-color: #005F59;
+}
+
+.dark {
+  --vp-c-brand-1: #00958B;
+  --vp-c-brand-2: #007A72;
+  --vp-c-brand-3: #005F59;
+}
