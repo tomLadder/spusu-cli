@@ -9,15 +9,16 @@
 </p>
 
 <p align="center">
+  <a href="https://tomladder.github.io/spusu-cli/">📖 Documentation</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#commands">Commands</a> •
-  <a href="#configuration">Configuration</a> •
   <a href="#contributing">Contributing</a>
 </p>
 
 <p align="center">
+  <a href="https://tomladder.github.io/spusu-cli/"><img src="https://img.shields.io/badge/docs-online-005F59.svg" alt="Documentation"></a>
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/bun-%3E%3D1.0-black.svg" alt="Bun">
@@ -70,7 +71,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/spusu-cli.git
+git clone https://github.com/tomLadder/spusu-cli.git
 cd spusu-cli
 
 # Install dependencies
