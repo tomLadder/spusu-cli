@@ -50,7 +50,7 @@ POST /authentication/login/
 **Request Body:**
 ```json
 {
-  "phoneNumberOrCustomerNumber": "+43699XXXXXXXX",
+  "phoneNumber": "+43699XXXXXXXX",
   "secret": "ABC"
 }
 ```

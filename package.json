@@ -1,6 +1,6 @@
 {
   "name": "spusu-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Unofficial CLI for spusu.at - Austrian mobile provider",
   "type": "module",
   "bin": {
