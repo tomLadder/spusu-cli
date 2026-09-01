@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://tomladder.github.io/spusu-cli/"><img src="https://img.shields.io/badge/docs-online-005F59.svg" alt="Documentation"></a>
-  <img src="https://img.shields.io/badge/version-0.0.1-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.0.2-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/bun-%3E%3D1.0-black.svg" alt="Bun">
   <img src="https://img.shields.io/badge/TypeScript-5.4-blue.svg" alt="TypeScript">

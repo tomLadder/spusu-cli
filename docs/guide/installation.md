@@ -45,7 +45,7 @@ bun run dev invoices list
 
 ```bash
 spusu --version
-# Output: 0.0.1
+# Output: 0.0.2
 
 spusu --help
 ```

@@ -10,7 +10,7 @@ export function createCLI(): Command {
   program
     .name('spusu')
     .description('Unofficial CLI for spusu.at - Austrian mobile provider')
-    .version('0.0.1');
+    .version('0.0.2');
 
   // Register all command groups
   registerAuthCommands(program);
