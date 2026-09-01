@@ -19,3 +19,7 @@ Requests.MD
 
 # Bun
 bun.lockb
+
+# VitePress
+docs/.vitepress/cache/
+docs/.vitepress/dist/

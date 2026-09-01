@@ -55,7 +55,7 @@ export async function login(
       method: 'POST',
       headers: DEFAULT_HEADERS,
       body: JSON.stringify({
-        phoneNumberOrCustomerNumber: phoneNumber,
+        phoneNumber,
         secret: tanCode,
       }),
     });
